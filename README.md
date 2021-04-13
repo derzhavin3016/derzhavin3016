@@ -4,6 +4,9 @@
 
   * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/derzhav1n)
   * [![gm](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derzhavin@frtk.ru)
+- Languages:
+  * ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  * ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **derzhavin3016/derzhavin3016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
