@@ -1,4 +1,5 @@
 ### Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">
+![vs](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=derzhavin3016&repo=derzhavin3016&countColor=%FFFDFE)
 
 My name is Andrey, I'm 4-th term student of **MIPT DREC**, Russia :ru: 
 
@@ -17,6 +18,7 @@ This is my repo with education projects
   * ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   * <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
   * <img alt="CMake" src="https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>
+  * ![ubun](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 - 🖥 Preferred IDE:
   * <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <details open>
