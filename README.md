@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Andrey, I'm 4-th term student of **MIPT DREC**. This is my repo with education projects
+
 - 📫 How to reach me:
 
   * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/derzhav1n)
