@@ -1,4 +1,4 @@
-### Hi there <span class="wave">👋</span>
+### Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">
 
 My name is Andrey, I'm 4-th term student of **MIPT DREC**, Russia :ru: 
 
