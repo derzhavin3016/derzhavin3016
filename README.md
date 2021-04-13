@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/derzhav1n)
+- 📫 How to reach me:
+
+  * [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/derzhav1n)
 
 <!--
 **derzhavin3016/derzhavin3016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
