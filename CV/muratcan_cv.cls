@@ -20,6 +20,7 @@
 \RequirePackage{ifthen}
 \RequirePackage{lipsum}
 \RequirePackage{array}
+\RequirePackage{xcolor}
 \pagestyle{empty}
 
 %Setup
