@@ -85,7 +85,7 @@
 }
 
 \newcommand{\contact}{%
-        {\small \@address  \cps \@mobile \\ 
+        {\small \faMapMarker* \ \@address  \cps \faMobile* \ \@mobile \\ 
          \@mail%
         \\%
         \githubview \cps \tgview \\ 
