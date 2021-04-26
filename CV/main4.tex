@@ -1,13 +1,15 @@
 \documentclass{muratcan_cv}
 
-\setname{Murat Can}{Karacabey}
-\setaddress{Munich/Germany}
-\setmobile{xx xxx xx xx}
-\setmail{muratcankaracabey@gmail.com}
+\setname{Andrey}{Derzhavin}
+\setaddress{Dolgoprudny/Russia}
+\setmobile{+7 921 389 90 39}
+\setmail{
+  \href{mailto:derzhavin.aa@phystech.edu}{derzhavin.aa@phystech.edu}
+  }
 \setposition{Work Student} %ignored for now
-\setlinkedinaccount{https://www.linkedin.com/in/murat-can-karacabey-568a96b1/} %you can play with color of the template (red is also nice..)
-\setgithubaccount{https://github.com/muratcankaracabey} %you can play with color of the template (red is also nice..)
-\setthemecolor{red} %you can play with color of the template (red is also nice..)
+\settgaccount{https://t.me/derzhav1n}
+\setgithubaccount{https://github.com/derzhavin3016} %you can play with color of the template (red is also nice..)
+\setthemecolor{blue} %you can play with color of the template (red is also nice..)
 
 \begin{document}
 %Set variables
@@ -18,77 +20,101 @@
 %Sections
 %
 % Summary
-\addblocktext{Summary}{%
-\lipsum[1][1-12]\ %replace this part with actual text
-}
+%\addblocktext{Summary}{%
+%\lipsum[1][1-12]\ %replace this part with actual text
+%}
 %
 %Education
 \section{Education} 
-    \datedexperience{Boğaziçi University}{2013-2018} 
-    \explanation{B.S in Computer Engineering} 
-     \explanationdetail{\coloredbullet\ % 
-     \lipsum[1][3-4]\par %replace this part with actual text
-     }
-    \datedexperience{Technical University of Munich}{2019-2022} 
-    \explanation{M.S in Informatics} 
-    \explanationdetail{\coloredbullet\ %
-     \lipsum[1][3-4]\par %replace this part with actual text
-     }
+\datedexperience{Physics and math lyceum 30}{2017 -- 2019 / Saint-Petersburg, Russia} 
+\explanation{School} 
+%\explanationdetail{\coloredbullet\ %
+ %replace this part with actual text
+ %}
+    \datedexperience{Moscow Institute of Physics and Techonlogy}{2019 -- 2023 / Dolgoprudny, Russia} 
+    \explanation{B.S in applied math and physics} 
+     %\explanationdetail{\coloredbullet\ % 
+      %replace this part with actual text
+     %}
 %
 % Experience
 \section{Experience}
     %
-    \datedexperience{Intertech Inc.}{2014-Summer / Turkey} 
-    \explanation{Intern as android developer} 
+    \datedexperience{Acronis}{Jul 2020 -- Nov 2020 / Remote} 
+    \explanation{Intern} 
+    \explanationdetail{\coloredbullet\
+      Arcticle
+      ``Usage of right-context grammars in static analysis of source code on C++``,
+      participation in two conferences
+    }
     %
-    \datedexperience{Velocity Inc.}{2015-Summer / Turkey} 
-    \explanation{Intern as Developer/Tester} 
-    %
-    \datedexperience{Akbank}{2018-2019 / Turkey} 
-    \explanation{Ios Developer} 
-    \explanationdetail{\coloredbullet\ %
-     \lipsum[1][1-2]\par %replace this part with actual text
-     }
-    %
-    \datedexperience{Mobile-Software AG}{2019-2020 / Germany} 
-    \explanation{Ios Developer} 
-    \explanationdetail{\coloredbullet\ %
-     \lipsum[1][4-5]\par %replace this part with actual text
-     }
-    %
-    \datedexperience{BMW Autonomous Driving Campus}{2020-Now / Germany} 
-    \explanation{Working Student} 
-    \explanationdetail{\coloredbullet\ %
-     \lipsum[1][3-4]\par %replace this part with actual text
-     }
 %
+% Proojects
+\section{Projects}
+
+  \datedexperience{
+    \href{https://github.com/derzhavin3016/SUM2018/tree/master/T08ANIM}
+    {Animation system}}{Jun 2018}
+  \explanation{Educational animation system project from 10\textsuperscript{th} grade summer practice}
+  \explanationdetail{\coloredbullet\
+  Animation system based on OpenGL
+  }
+  \datedexperience{
+    \href{https://github.com/derzhavin3016/SUM2018/tree/master/CAMP/T08RT}
+    {Ray-Tracing}
+    }{Jul 2018}
+  \explanation{Educational ray tracing project from 10\textsuperscript{th} grade summer camp}
+  \explanationdetail{\coloredbullet\
+  Program which produces photo-realistic images using ray-tracing algorithm
+  }
+  \datedexperience{
+    \href{https://github.com/derzhavin3016/2_sem/tree/master/bin_trans}
+    {Binary Translator}}{May 2020}
+  \explanation{Educational project from 1\textsuperscript{st} course at MIPT}
+  \explanationdetail{\coloredbullet\
+  Program which translates my own processor's binary code into x86 binary code and creates an .exe file
+  }
+  \datedexperience{
+    \href{https://github.com/derzhavin3016/ParaCL}
+    {ParaCL}}{Mar 2021 -- Present}
+  \explanation{Educational project from 2\textsuperscript{nd} course}
+  \explanationdetail{\coloredbullet\
+  My own language interpreter with an option to generate a LLVM IR
+  }
+  \datedexperience{
+    \href{https://github.com/derzhavin3016/MIPT-Huawei-student-lab/tree/master/AndreyDerzhavin}
+    {Optimisation of Matrix Multiplication}}{Apr 2021}
+  \explanation{Educational project from 2\textsuperscript{nd} course}
+  \explanationdetail{\coloredbullet\
+  Comprasion of several optimisation methods, such as 
+  transposing, loop unrolling, temporary variables, OpenCL
+  }
+
 % Skills
 \section{Skills}
     %
-    \newcommand{\skillone}{\createskill{Programming Languages}{\textbf{\emph{Experienced:}} \ \  Python \cpshalf Swift \ \ \textbf{\emph{Familiar:}} \ \  Javascript \cpshalf Objective-C \cpshalf Bash \cpshalf Java \cpshalf Scheme}}
+    \newcommand{\skillone}{\createskill{Programming Languages}{ C \cpshalf C++ \ \ \textbf{\emph{Codegen:}} \ \ Python }}
     %
-    \newcommand{\skilltwo}{\createskill{Software Development}{Programming Paradigms \cpshalf GIT \cpshalf CLI \cpshalf Agile Methodology \cpshalf DevOps Lifecycles}}
+    \newcommand{\skilltwo}{\createskill{Software Development}{git \cpshalf make \cpshalf CMake \cpshalf \LaTeX \cpshalf Linux (WSL2, Ubuntu)}}
     %
-    \newcommand{\skillthree}{\createskill{Frameworks \ \& \ Libraries}{Jupyter \cpshalf Matplotplib \cpshalf Numpy \cpshalf Pandas \cpshalf Scikit-learn \cpshalf Gym \cpshalf PyTorch \cpshalf Tensorflow}}
+    \newcommand{\skillthree}{\createskill{Frameworks \ \& \ Libraries}{LLVM \cpshalf OpenCL  \cpshalf Numpy }}
     %
-    \newcommand{\skillfour}{\createskill{iOS Programming}{RxSwift \cpshalf PromiseKit \cpshalf CocoaPods \cpshalf Autolayout/DSLs}}
+    \newcommand{\skillfour}{\createskill{Languages}{\textbf{\emph{C2:}} \ \  Russian \ \ \textbf{\emph{B2:}} \ \ English}}
     %
-    \newcommand{\skillfive}{\createskill{Languages}{\textbf{\emph{Native:}} \ \  Turkish \ \ \textbf{\emph{Fluent:}} \ \ English \ \ \textbf{\emph{Beginner:}} \ \  German }}
-    %
-    \createskills{\skillone, \skilltwo, \skillthree, \skillfour, \skillfive}
+    \createskills{\skillone, \skilltwo, \skillthree, \skillfour}
 %
 % Experience
 \section{Extra}
     \newcommand{\extraone}{%
-    \lipsum[1][7-8]\par %replace this part with actual text
+    Interested in computer technologies, system programming
     }
     %
     \newcommand{\extratwo}{%
-    \lipsum[1][9-10]\par %replace this part with actual text
+      Resolute, hardworking, non-contentious
     }
     %
     \newcommand{\extrathree}{%
-    \lipsum[1][11-12]%replace this part with actual text
+    Hobbies -- football
     }
     %
     \newcommand{\listofextras}{\extraone, \extratwo, \extrathree}
