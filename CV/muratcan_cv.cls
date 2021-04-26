@@ -85,7 +85,8 @@
 }
 
 \newcommand{\contact}{%
-        {\small \@address  \cps \@mobile \\ \@mail%
+        {\small \@address  \cps \@mobile \\ 
+         \@mail%
         \\%
         \githubview \cps \tgview \\ 
         } % 
