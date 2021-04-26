@@ -4,7 +4,7 @@ My name is Andrey, I'm 4-th term student of 📚 **MIPT DREC**.
 
 I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
 
-You can see my CV [here](https://github.com/derzhavin3016/derzhavin3016/blob/master/CV/build/CV.pdf).
+You can see my CV [here](https://drive.google.com/file/d/1ochbFYwsTUFXx745aUvnVdK8cUJ2tjWV/view?usp=sharing).
 
 This is my repo with education projects
 
