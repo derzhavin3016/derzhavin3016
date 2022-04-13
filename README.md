@@ -1,5 +1,7 @@
 ### Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">
 
+![](https://komarev.com/ghpvc/?username=derzhavin3016&style=for-the-badge)
+
 My name is Andrey, I'm 3-rd course student of 📚 **MIPT DREC**. 
 
 I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
@@ -7,7 +9,7 @@ I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
 
 You can see my 📃 **CV [here](https://drive.google.com/file/d/1ochbFYwsTUFXx745aUvnVdK8cUJ2tjWV/view?usp=sharing)**.
 
-This is my repo with education projects
+This is my profile with education projects
 
 - 📫 **How to reach me**:
 
@@ -31,7 +33,6 @@ This is my repo with education projects
   <img src = "https://github-readme-stats.vercel.app/api?username=derzhavin3016&show_icons=true&theme=system&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=derzhavin3016&hide=css,java,html&theme=system">
 </p>
-
 </details>
 
 <!--
