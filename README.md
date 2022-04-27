@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=derzhavin3016&style=for-the-badge)
 
-My name is Andrey, I'm 3-rd course student of 📚 **MIPT DREC**. 
+My name is Andrey, I'm 3-rd year student of 📚 **MIPT DREC**. 
 
 I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
 
