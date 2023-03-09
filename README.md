@@ -7,7 +7,7 @@ My name is Andrey, I'm 4-th year student of 📚 **MIPT DREC**.
 I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
 
 
-You can see my 📃 **CV [here](https://drive.google.com/file/d/1hyaIe8rq4cmv4okBP1-BV5WApWp2rI6u/view?usp=drivesdk)**.
+You can see my 📃 **CV [here](https://drive.google.com/file/d/1rztpkvBJXfe-uwTn6Sg3p1NtpqUxp4YX/view?usp=sharing)**.
 
 This is my profile with education projects
 
