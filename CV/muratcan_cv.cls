@@ -52,7 +52,7 @@
 % can makebox also be used?
 \newcommand\headerview{
 \begin{minipage}{0.25\linewidth}
-    \profpic{0.22}{pics/CV_cr.png}
+    \profpic{0.15}{pics/IMG_4284.jpg}
 \end{minipage}%
 \hfill
 \begin{minipage}{0.45\linewidth}
@@ -77,8 +77,8 @@
 %contactsubviews
 
 
-\newcommand{\tgview}{\href{\@tgaccount}{\faTelegram\ \footnotesize telegram}}
-\newcommand{\githubview}{\href{\@githubaccount}{\faGithubSquare\ \footnotesize github}}
+\newcommand{\tgview}{\href{\@tgaccount}{\faTelegram\ \footnotesize derzhav1n}}
+\newcommand{\githubview}{\href{\@githubaccount}{\faGithubSquare\ \footnotesize derzhavin3016}}
 
 \newcommand{\name}{%
     {\large \@firstname \ \textsc{\@lastname}}
