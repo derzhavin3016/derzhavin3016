@@ -2,14 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=derzhavin3016&style=for-the-badge)
 
-My name is Andrey, I'm 5-th year student of 📚 **MIPT DREC**. 
+My name is Andrey, I'm 6-th year student of 📚 **MIPT DREC**.
 
 I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
 
 
-You can see my 📃 **CV [here](https://drive.google.com/file/d/1rztpkvBJXfe-uwTn6Sg3p1NtpqUxp4YX/view?usp=sharing)**.
+You can see my 📃 **CV [here](https://github.com/derzhavin3016/derzhavin3016/blob/master/CV/build/CV.pdf)**.
 
-This is my profile with education projects
+This is my profile with educational projects
 
 - 📫 **How to reach me**:
 
