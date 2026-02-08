@@ -2,14 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=derzhavin3016&style=for-the-badge)
 
-My name is Andrey, I'm 6-th year student of 📚 **MIPT DREC**.
+My name is Andrey, I'm PhD student of 📚 **MIPT DREC**. 
 
-I'm From St.Petersburg, currently living in :ru: **Moscow, Russia**.
 
 
 You can see my 📃 **CV [here](https://github.com/derzhavin3016/derzhavin3016/blob/master/CV/build/CV.pdf)**.
-
-This is my profile with educational projects
 
 - 📫 **How to reach me**:
 
@@ -18,7 +15,7 @@ This is my profile with educational projects
 - 👨‍💻 **Languages**:
   * [![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
   * [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-  * [![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)   **(for codegen or smth)**
+  * [![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 - 🧠 **Knowledge**:
   * [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   * [![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
@@ -27,7 +24,7 @@ This is my profile with educational projects
 - 🖥 **Preferred IDE**:
   * [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=derzhavin3016&show_icons=true&theme=system&line_height=27">
