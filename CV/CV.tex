@@ -21,17 +21,17 @@
 %Sections
 %
 % Summary
-%\addblocktext{Summary}{%
-%\lipsum[1][1-12]\ %replace this part with actual text
-%}
-%
+\addblocktext{Summary}{%
+System software engineer with 5+ years of experience at Huawei RII, focused on CPU functional simulation, microarchitectural design space exploration, and compiler optimisations. Skilled in C++, LLVM, and JIT compilation. Proven ability to lead research projects from prototype to product integration. Passionate about teaching and mentoring (co-created a university course). Looking for opportunities in compilers, emulation, or high-performance computing.
+}
+
 %Education
 \section{Education}
 %\explanationdetail{\coloredbullet\ %
 %replace this part with actual text
 %}
 \datedexperience{Moscow Institute of Physics and Technology}{2023 -- 2025 / Dolgoprudny, Russia}
-\explanation{M.S in applied math and physics}
+\explanation{M.S in applied math and physics, honours degree}
 \datedexperience{Moscow Institute of Physics and Technology}{2019 -- 2023 / Dolgoprudny, Russia}
 \explanation{B.S in applied math and physics, honours degree}
 \datedexperience{Physics and math lyceum 30}{2017 -- 2019 / Saint Petersburg, Russia}
@@ -44,27 +44,26 @@
 
 \datedexperience{``Uses and applications of C++ language``}{Sep 2020 -- Apr 2021}
 \explanation{MIPT course. Lecturer -- K.~Vladimirov, Intel.}
-\datedexperience{``Simulation tools of CP and OS and learning programs' behaviour``}{Sep -- Dec 2020}
-\explanation{MIPT course. Lecturer -- I.~Petushkov, Huawei.}
-\datedexperience{``Industrial Programming. Part 1. C language.``}{Sep -- Dec 2019}
-\explanation{MIPT course. Lecturer -- I.~Dedinsky, Mail.Ru.}
-
 % Experience
 \section{Experience}
     %
     %
     %
     \datedexperience{Huawei RRI}{Jul 2021 -- Present / Moscow, Russia}
-    \explanationdetail{\coloredbullet\
-    Led a project related to functional simulation.
-    Participated in cross-project activities.
+    \explanationdetail{
+      \coloredbullet\
+      Co-developed and co-taught "CPU \& OS Simulation" course (MIPT, ITMO)
+      }
+    \explanationdetail{
+    \coloredbullet\
+    Led a functional simulation project from early prototype to successful integration into another product within a year (team of two).
     }
     \explanationdetail{\coloredbullet\
-    Conducted research on improving microarchitectural Design space exploration with low order paremeters.
+    Conducted research on improving microarchitectural Design space exploration with low-order parameters.
     Developed a parallel, simulator-independent framework for finding optimal uArch configuration
     }
     \explanationdetail{\coloredbullet\
-    Implemented tool which finds loops in program's CFG using Boost Graph. Conducted research on dynamic cycles classification, estimate potential performance improve from enhancing loop termination prediction using ISA hint
+    Implemented tool which finds loops in program's CFG using Boost Graph. Conducted research on dynamic cycles classification, estimated potential performance improvement from enhancing loop termination prediction using ISA hint
     }
     % \explanationdetail{\coloredbullet\
     % }
@@ -73,69 +72,9 @@
     \explanationdetail{\coloredbullet\
       Learned right-context grammars, proposed \& investigated several ways of applying them to static analysis of C++ source code
     }
-    \explanationdetail{\coloredbullet\
-      Arcticle
-      ``Usage of right-context grammars in static analysis of source code on C++``,
-      participation in two conferences
-    }
 %
 % Projects
 \section{Projects}
-
-  % \datedexperience{
-  %   \href{https://github.com/derzhavin3016/SUM2018/tree/master/T08ANIM}
-  %   {Animation system}}{Jun 2018}
-  % \explanation{Educational animation system project from 10\textsuperscript{th} grade summer practice}
-  % \explanationdetail{\coloredbullet\
-  % Animation system based on OpenGL
-  % }
-  % \datedexperience{
-  %   \href{https://github.com/derzhavin3016/SUM2018/tree/master/CAMP/T08RT}
-  %   {Ray-Tracing}
-  %   }{Jul 2018}
-  % \explanation{Educational ray tracing project from 10\textsuperscript{th} grade summer camp}
-  % \explanationdetail{\coloredbullet\
-  % Program which produces photo-realistic images using ray-tracing algorithm
-  % }
-  % \datedexperience{
-  %   \href{https://github.com/derzhavin3016/2_sem/tree/master/bin_trans}
-  %   {Binary Translator}}{May 2020}
-  % \explanation{Educational project from 1\textsuperscript{st} course at MIPT}
-  % \explanationdetail{\coloredbullet\
-  % Program which translates my own processor's binary code into x86 binary code and creates an .exe file
-  % }
-  % \datedexperience{
-  %   \href{https://github.com/derzhavin3016/ParaCL}
-  %   {ParaCL}}{Mar 2021 -- Jul 2021}
-  % \explanation{Educational project from 2\textsuperscript{nd} course}
-  % \explanationdetail{\coloredbullet\
-  % My own language interpreter with an option to generate a LLVM IR
-  % }
-  % \datedexperience{
-  %   \href{https://github.com/derzhavin3016/MIPT-Huawei-student-lab/tree/master/AndreyDerzhavin}
-  %   {Optimisation of Matrix Multiplication}}{Apr 2021}
-  % \explanation{Educational project from 2\textsuperscript{nd} course}
-  % \explanationdetail{\coloredbullet\
-  % Comparison of several optimisation methods, such as
-  % transposing, loop unrolling, temporary variables, OpenCL
-  % }
-  \datedexperience{
-    \href{https://github.com/106-inc/Triangles}
-    {Triangles}}{Feb 2022 -- May 2022}
-  \explanation{Educational project}
-  \explanationdetail{\coloredbullet\
-    Program to check intersection of large amount of triangles
-  }
-  \datedexperience{
-    \href{https://github.com/106-inc/sim2022}
-    {Sim2022}}{Oct 2022 -- Jan 2023}
-  \explanation{Educational project}
-  \explanationdetail{\coloredbullet\
-    Functional simulator of RISC-V ISA w/ by-BasicBlock execution, code caching \& TLB.
-
-    \coloredbullet\
-    Implemented autogeneration of decoder from ISA-description.
-  }
   \datedexperience{
     \href{https://github.com/derzhavin3016/leech-compiler}
     {leech-compiler}}{Sep 2023 -- May 2024}
@@ -143,7 +82,19 @@
   \explanationdetail{\coloredbullet\
     Implementation of compiler IR for custom VM. Developed several popular optimization passes \& analyses
   }
+  \datedexperience{
+    \href{https://github.com/ProteusLab/JitResearch}
+    {JitResearch}}{Sep 2025 -- Present}
+  \explanation{Research project}
+  \explanationdetail{\coloredbullet\
+    Conducted a comparative study of modern JIT libraries, evaluating performance, flexibility, and integration complexity for CPU simulation purposes.
+  }
 
+\section{Publications \& Talks}
+\datedexperience{
+    \href{https://cppconf.ru/talks/20010048-jit-libraries-for-cpu-simulation-difficulties-of-choice/}
+    {JIT libraries for CPU simulation: difficulties of choice}}{May 2026}
+    \explanation{C++Russia 2026 talk}
 % Skills
 \section{Skills}
     %
@@ -153,7 +104,7 @@
     %
     \newcommand{\skillthree}{\createskill{Frameworks \ \& \ Libraries}{LLVM IR \cpshalf OpenCL  \cpshalf Numpy \cpshalf Boost}}
     %
-    \newcommand{\skillfour}{\createskill{Languages}{\textbf{\emph{C2:}} \ \  Russian \ \ \textbf{\emph{C1(IELTS):}} \ \ English}}
+    \newcommand{\skillfour}{\createskill{Languages}{\textbf{\emph{Russian:}} \ \  native \ \ \textbf{\emph{English:}} \ \ C1(IELTS 7.0)}}
     %
     \createskills{\skillone, \skilltwo, \skillthree, \skillfour}
 %
@@ -164,14 +115,10 @@
     }
     %
     \newcommand{\extratwo}{%
-      Resolute, hardworking, detail-oriented
-    }
-    %
-    \newcommand{\extrathree}{%
     Hobbies -- football, history
     }
     %
-    \newcommand{\listofextras}{\extraone, \extratwo, \extrathree}
+    \newcommand{\listofextras}{\extraone, \extratwo}
     %
     \createbullets{\listofextras}
 %
