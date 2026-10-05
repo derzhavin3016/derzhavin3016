@@ -78,7 +78,7 @@
 #edu(
   institution: "Moscow Institute of Physics and Technology",
   location: "Dolgoprudny, Russia",
-  degree: "B.Sc. in applied math and physics, , with honours",
+  degree: "B.Sc. in applied math and physics, with honours",
   dates: dates-util(start-date: "Sep 2019", end-date: "Jul 2023"),
 )
 
