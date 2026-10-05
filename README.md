@@ -6,7 +6,7 @@ My name is Andrey, I'm PhD student of 📚 **MIPT DREC**.
 
 
 
-You can see my 📃 **CV [here](https://github.com/derzhavin3016/derzhavin3016/blob/master/CV/build/CV.pdf)**.
+You can see my 📃 **CV [here](https://github.com/derzhavin3016/derzhavin3016/blob/master/CV/ats-friendly-resume/CV.pdf)**.
 
 - 📫 **How to reach me**:
 
