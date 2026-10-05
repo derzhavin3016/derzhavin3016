@@ -32,7 +32,7 @@
   lang: "en",
 )
 == Summary
-  CPU simulation engineer with 5+ years at Huawei. I led a functional CPU simulator from prototype to product integration, designed a parallel framework for microarchitectural exploration, and built loop-analysis tooling on top of Boost. Core stack: C++, JIT compilation, AArch64 assembly, LLVM. Co-created and taught the “CPU & OS Simulation” university course. Looking for roles in emulation, simulation, or high-performance systems.
+  CPU simulation engineer with 5+ years at Huawei. Led a functional CPU simulator from prototype to production, designed a parallel microarchitectural exploration framework, and built loop-analysis tooling. Core expertise: C++, Python, CPU simulation (QEMU, gem5), microarchitecture, AArch64/RISC-V, LLVM, performance profiling. Co-created and taught the "CPU & OS Simulation" course at MIPT and ITMO. Focused on CPU simulation, low-level systems, performance engineering, and HW/SW co-design.
 
 
 == Experience
@@ -46,10 +46,11 @@
   dates: dates-util(start-date: "Jul 2021", end-date: "Present"),
   location: location,
 )
-- Co-developed and co-taught "CPU & OS Simulation" course (MIPT, ITMO)
-- Led development of a functional CPU simulator from early prototype to production integration within one year (team of two); owned architecture, implementation, and delivery.
+- Lead a project on autonomous ELF benchmark generation from execution traces, managing tasks, writing code, and driving delivery.
+- Led development of a functional CPU simulator from prototype to production within one year (team of two); designed a DBT-like translation pipeline that *cut translation time in half*.
 - Researched microarchitectural design space exploration using low-order parameters. Designed a parallel, simulator-agnostic framework that identifies optimal microarchitectural configurations.
 - Built a static loop analysis tool using Boost Graph Library. Studied dynamic loop classification and quantified potential IPC improvement from enhanced loop termination prediction via ISA hints.
+- Mentored five interns over 3 years through code reviews, design discussions, task planning, and professional development.
 #work(
   company: "Acronis",
   role: "Intern",
@@ -63,21 +64,28 @@
 #edu(
   institution: "Moscow Institute of Physics and Technology",
   location: "Dolgoprudny, Russia",
-  degree: "M.Sc. in applied math and physics, honours degree",
+  degree: "PhD student, Computer Science (expected 2028)",
+  dates: dates-util(start-date: "Sep 2025", end-date: "Present"),
+)
+
+#edu(
+  institution: "Moscow Institute of Physics and Technology",
+  location: "Dolgoprudny, Russia",
+  degree: "M.Sc. in applied math and physics, with honours",
   dates: dates-util(start-date: "Sep 2023", end-date: "Jul 2025"),
 )
 
 #edu(
   institution: "Moscow Institute of Physics and Technology",
   location: "Dolgoprudny, Russia",
-  degree: "B.Sc. in applied math and physics, honours degree",
+  degree: "B.Sc. in applied math and physics, , with honours",
   dates: dates-util(start-date: "Sep 2019", end-date: "Jul 2023"),
 )
 
 - *Selected Coursework*: "Uses and Applications of C++ Language" (MIPT, 2020–2021), lecturer K. Vladimirov (Intel).
 
 #edu(
-  institution: "Physics and math lyceum 30",
+  institution: "Physics and Mathematics Lyceum No. 30",
   location: "Saint-Petersburg, Russia",
   dates: dates-util(start-date: "Sep 2017", end-date: "Jun 2019"),
 )
@@ -86,13 +94,6 @@
 
 // Projects section
 // tech-used is optional so feel free to omit it.
-
-#project(
-  name: "leech-compiler",
-  dates: dates-util(start-date: "Sep 2023", end-date: "May 2024"),
-  url: "github.com/derzhavin3016/leech-compiler",
-)
-- Designed an SSA-based compiler IR for a custom VM. Implemented optimization passes (constant folding, inlining, peepholes, checks elimination).
 #project(
   name: "JitResearch",
   dates: dates-util(start-date: "Sep 2025", end-date: "Present"),
@@ -100,19 +101,34 @@
 )
 - Comparative study of modern JIT frameworks (LLVM ORC, AsmJit and other JIT backends) for CPU functional simulation. Evaluated compilation latency, code quality, and integration complexity. Results presented at C++Russia 2026.
 
-== Publications & Talks
+#project(
+  name: "leech-compiler",
+  dates: dates-util(start-date: "Sep 2023", end-date: "May 2024"),
+  url: "github.com/derzhavin3016/leech-compiler",
+)
+- Designed an SSA-based compiler IR for a custom VM. Implemented optimization passes (constant folding, inlining, peepholes, checks elimination).
+
+== Talks & Teaching
 #project(
   name: "JIT libraries for CPU simulation: difficulties of choice",
   dates: dates-util(start-date: "May 2026"),
   url: "cppconf.ru/talks/20010048/",
 )
-- Talk at C++Russia 2026 (accepted). Discussed trade-offs among JIT libraries for functional CPU simulation.
+- Talk at C++Russia 2026. Discussed trade-offs among JIT libraries for functional CPU simulation.
 
+#project(
+  name: "CPU & OS Simulation course (MIPT, ITMO)",
+  dates: dates-util(start-date: "Sep 2024", end-date: "Present"),
+  url: "proteuslab.github.io/SimCourse/",
+)
+- Co-developed and co-taught the course. Covered CPU architecture, simulation, and OS fundamentals.
 
 == Technical Skills
-- *Programming & Assembly*: C, C++, Python, AArch64, RISC-V, x86-64
-- *Simulation & Emulation*: QEMU, gem5, functional CPU simulators
-- *Compilers & IR*: LLVM IR, JIT compilation
-- *Libraries & Frameworks*: Boost, Google Test, OpenCL, NumPy
-- *Tools & Platforms*: git, make, CMake, Linux (WSL2, Ubuntu)
-- *Languages*: Russian (native), English (C1, IELTS 7.0)
+- *Programming*: C++, C, Python
+- *CPU Architecture*: microarchitecture, AArch64, RISC-V, x86-64
+- *Simulation & Emulation*: QEMU, gem5, functional CPU simulation
+- *Compilers & JIT*: LLVM, LLVM IR, JIT/DBT
+- *Performance*: profiling, benchmarking, performance analysis
+- *Libraries & Frameworks*: Boost, Google Test, NumPy
+- *Tools & Platforms*: CMake, git, Linux
+- *Languages*: Russian (native), English (C1)
